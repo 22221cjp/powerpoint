@@ -1,3 +1,4 @@
 theme : black
+logo : logo/logo.png
 autoslide : 5500
 mousewheel : true
