@@ -1,4 +1,4 @@
 theme : black
-logo : logo/logo.png
+logo : assets/logo.png
 autoslide : 5500
 mousewheel : true
