@@ -3,7 +3,7 @@
 #### Bounce Rate&Complaint Rate
 ![](resources/7AA5DBFFCA2529E863B7DDCBAC669E90.jpg)
 ---
-- Bounce Rate&Complaint Rate
+**Bounce Rate&Complaint Rate**
 * Bounce Rate – 邮件的退回率，收件邮件地址无效率。
 * Complaint Rate - 总体投诉率
 
