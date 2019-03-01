@@ -1,10 +1,7 @@
-# 工作交接
+# SES Bounce Rate&Complaint Rate
 ---
-需求tapd：
-美发和美甲
-https://www.tapd.cn/20004851/prong/stories/view/1120004851001033648
-美容
-https://www.tapd.cn/20004851/prong/stories/view/1120004851001039182
+# SES Bounce Rate&Complaint Rate
+![](resources/7AA5DBFFCA2529E863B7DDCBAC669E90.jpg)
 ---
 项目：
 beauty-deal-service
