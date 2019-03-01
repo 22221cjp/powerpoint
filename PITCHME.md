@@ -26,7 +26,7 @@
 ---
 **SQS(Simple Queue Service)**
 
-API:
+<font size=5 align='left'>API:</font>
 <font size=5 align='left'>CreateQueue、SendMessage、ReceiveMessage、ChangeMessageVisibility 和 DeleteMessage。</font>
 
 ---
