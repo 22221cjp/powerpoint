@@ -13,10 +13,14 @@
 
 **如果 Amazon SES 账户的总体退回邮件率超过 10% 或 Amazon SES 账户的总体投诉率超过 0.5%，则 Amazon SES 账户会自动置于审核状态。**
 ---
-目前提供给搜索的接口为：
-BeautyStructureServiceImpl#loadAllBeautyDealTag(final List<DealTagArgs> dealTagArgs)
 
-之前优化的wiki：http://wiki.sankuai.com/pages/viewpage.action?pageId=491621043
+**解决--SNS&SQS**
+* SNS（Simple Notification Service）
+类似于MQ中的Topic，publish发布消息后，多个订阅终端都能收到通知。
+不同的地方在于：**不支持消息堆积**，所以需要搭配SQS使用
+
+![IMAGE](resources/CA4BBBFFA0DB4A5B8C23FE90BD7A834B.jpg =602x387)
+
 ---
 接下来可能的工作：
 1. poi变更可能的影响
