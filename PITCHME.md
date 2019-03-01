@@ -20,7 +20,7 @@
 不同的地方在于：**不支持消息堆积**，所以需要搭配SQS使用
 
 ---
-** SNS(Simple Notification Service)
+**SNS(Simple Notification Service)**
 ![IMAGE](resources/CA4BBBFFA0DB4A5B8C23FE90BD7A834B.jpg =602x387)
 
 ---
