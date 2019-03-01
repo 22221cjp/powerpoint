@@ -4,12 +4,12 @@
 ![](resources/7AA5DBFFCA2529E863B7DDCBAC669E90.jpg)
 ---
 Bounce Rate&Complaint Rate
-## Bounce Rate – 邮件的退回率，收件邮件地址无效率。
-## Complaint Rate - 总体投诉率
+* Bounce Rate – 邮件的退回率，收件邮件地址无效率。
+* Complaint Rate - 总体投诉率
 
 
 
-###什么是投诉？
+### 什么是投诉？
 
 当收件人报告他们不想接收某封电子邮件时就出现了投诉。他们可能单击了其电子邮件客户端中的“报告垃圾邮件”按钮，向其邮件提供商投诉，直接或通过某种其他方式通知 Amazon SES
 
