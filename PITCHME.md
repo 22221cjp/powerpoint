@@ -26,9 +26,25 @@
 ---
 **SQS(Simple Queue Service)**
 
-<font align='left'>API:</font>
+<font align='left'>API:</font><br/>
 
 <font size=5 align='left'>CreateQueue、SendMessage、ReceiveMessage、ChangeMessageVisibility 和 DeleteMessage。</font>
+
+<font align='left'>队列设置:</font><br/>
+![IMAGE](resources/106D74A8D50E5DE17FA28C5DBE253F64.jpg =718x515)
+
+
+---
+
+# 什么是可见性超时
+
+#消息状态转换
+
+ SQS 中消息的几个概念
+ 
+* Message Available:  SQS 客户端可以获取到的消息, 即 Visible Messages
+* Messages in Flight: 消息被 SQS 收取了之后，由 Available 转为 In Flight, 该状态的消息不能被客户端接收到
+* Visibility Timeout:  消息停留在 In Flight 状态的时间, 如果在 Timeout 之前未删除这个消息，该消息重新变为 Available 状态
 
 ---
 2. 没有命中一级缓存的团单改为批量调用后端服务（稍复杂）
