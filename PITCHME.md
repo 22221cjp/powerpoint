@@ -27,7 +27,7 @@
 **SQS(Simple Queue Service)**
 
 API:
-<font size=1>CreateQueue、SendMessage、ReceiveMessage、ChangeMessageVisibility 和 DeleteMessage。</font>
+<font size=5 align='left'>CreateQueue、SendMessage、ReceiveMessage、ChangeMessageVisibility 和 DeleteMessage。</font>
 
 ---
 2. 没有命中一级缓存的团单改为批量调用后端服务（稍复杂）
